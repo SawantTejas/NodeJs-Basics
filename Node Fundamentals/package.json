@@ -1,0 +1,17 @@
+{
+  "name": "sdp",
+  "version": "1.0.0",
+  "description": "This is reference for sdp",
+  "main": "00-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Tejas Sawant",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
